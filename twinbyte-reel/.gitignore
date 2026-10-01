@@ -1,0 +1,14 @@
+node_modules
+dist
+.DS_Store
+.env
+
+# Ignore the output video from Git but not videos you import into src/.
+out
+.venv
+models
+whisper.cpp
+build
+out/stills
+out/*-silent.mp4
+public/audio/sfx-*.wav

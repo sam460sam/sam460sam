@@ -1,0 +1,478 @@
+[
+ {
+  "text": " I",
+  "startMs": 120,
+  "endMs": 246,
+  "timestampMs": 183,
+  "confidence": null
+ },
+ {
+  "text": " Googled",
+  "startMs": 246,
+  "endMs": 626,
+  "timestampMs": 436,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 626,
+  "endMs": 879,
+  "timestampMs": 752,
+  "confidence": null
+ },
+ {
+  "text": " business.",
+  "startMs": 879,
+  "endMs": 1300,
+  "timestampMs": 1089,
+  "confidence": null
+ },
+ {
+  "text": " Here's",
+  "startMs": 1650,
+  "endMs": 1924,
+  "timestampMs": 1787,
+  "confidence": null
+ },
+ {
+  "text": " what",
+  "startMs": 1924,
+  "endMs": 2159,
+  "timestampMs": 2041,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 2159,
+  "endMs": 2394,
+  "timestampMs": 2276,
+  "confidence": null
+ },
+ {
+  "text": " customers",
+  "startMs": 2394,
+  "endMs": 2824,
+  "timestampMs": 2609,
+  "confidence": null
+ },
+ {
+  "text": " see.",
+  "startMs": 2824,
+  "endMs": 3020,
+  "timestampMs": 2922,
+  "confidence": null
+ },
+ {
+  "text": " 97%",
+  "startMs": 3570,
+  "endMs": 4853,
+  "timestampMs": 3949,
+  "confidence": null
+ },
+ {
+  "text": " check",
+  "startMs": 4853,
+  "endMs": 5261,
+  "timestampMs": 5057,
+  "confidence": null
+ },
+ {
+  "text": " reviews",
+  "startMs": 5261,
+  "endMs": 5785,
+  "timestampMs": 5523,
+  "confidence": null
+ },
+ {
+  "text": " first.",
+  "startMs": 5785,
+  "endMs": 6193,
+  "timestampMs": 5989,
+  "confidence": null
+ },
+ {
+  "text": " Outdated",
+  "startMs": 6193,
+  "endMs": 6776,
+  "timestampMs": 6485,
+  "confidence": null
+ },
+ {
+  "text": " site?",
+  "startMs": 6776,
+  "endMs": 7126,
+  "timestampMs": 6951,
+  "confidence": null
+ },
+ {
+  "text": " They",
+  "startMs": 7126,
+  "endMs": 7476,
+  "timestampMs": 7301,
+  "confidence": null
+ },
+ {
+  "text": " call",
+  "startMs": 7476,
+  "endMs": 7826,
+  "timestampMs": 7651,
+  "confidence": null
+ },
+ {
+  "text": " someone",
+  "startMs": 7826,
+  "endMs": 8350,
+  "timestampMs": 8088,
+  "confidence": null
+ },
+ {
+  "text": " else.",
+  "startMs": 8350,
+  "endMs": 8700,
+  "timestampMs": 8525,
+  "confidence": null
+ },
+ {
+  "text": " Your",
+  "startMs": 8970,
+  "endMs": 9205,
+  "timestampMs": 9088,
+  "confidence": null
+ },
+ {
+  "text": " website",
+  "startMs": 9205,
+  "endMs": 9558,
+  "timestampMs": 9381,
+  "confidence": null
+ },
+ {
+  "text": " is",
+  "startMs": 9558,
+  "endMs": 9714,
+  "timestampMs": 9636,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 9714,
+  "endMs": 9949,
+  "timestampMs": 9832,
+  "confidence": null
+ },
+ {
+  "text": " work",
+  "startMs": 9949,
+  "endMs": 10184,
+  "timestampMs": 10067,
+  "confidence": null
+ },
+ {
+  "text": " van.",
+  "startMs": 10184,
+  "endMs": 10380,
+  "timestampMs": 10282,
+  "confidence": null
+ },
+ {
+  "text": " Keep",
+  "startMs": 10690,
+  "endMs": 10912,
+  "timestampMs": 10801,
+  "confidence": null
+ },
+ {
+  "text": " it",
+  "startMs": 10912,
+  "endMs": 11061,
+  "timestampMs": 10986,
+  "confidence": null
+ },
+ {
+  "text": " sharp.",
+  "startMs": 11061,
+  "endMs": 11320,
+  "timestampMs": 11190,
+  "confidence": null
+ },
+ {
+  "text": " We",
+  "startMs": 11670,
+  "endMs": 11879,
+  "timestampMs": 11775,
+  "confidence": null
+ },
+ {
+  "text": " build",
+  "startMs": 11879,
+  "endMs": 12246,
+  "timestampMs": 12063,
+  "confidence": null
+ },
+ {
+  "text": " fast,",
+  "startMs": 12246,
+  "endMs": 12560,
+  "timestampMs": 12403,
+  "confidence": null
+ },
+ {
+  "text": " mobile-first",
+  "startMs": 12900,
+  "endMs": 13614,
+  "timestampMs": 13257,
+  "confidence": null
+ },
+ {
+  "text": " websites",
+  "startMs": 13614,
+  "endMs": 14163,
+  "timestampMs": 13888,
+  "confidence": null
+ },
+ {
+  "text": " for",
+  "startMs": 14163,
+  "endMs": 14437,
+  "timestampMs": 14300,
+  "confidence": null
+ },
+ {
+  "text": " local",
+  "startMs": 14437,
+  "endMs": 14821,
+  "timestampMs": 14629,
+  "confidence": null
+ },
+ {
+  "text": " businesses,",
+  "startMs": 14821,
+  "endMs": 15480,
+  "timestampMs": 15151,
+  "confidence": null
+ },
+ {
+  "text": " designed",
+  "startMs": 15910,
+  "endMs": 16549,
+  "timestampMs": 16229,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 16549,
+  "endMs": 16804,
+  "timestampMs": 16676,
+  "confidence": null
+ },
+ {
+  "text": " get",
+  "startMs": 16804,
+  "endMs": 17124,
+  "timestampMs": 16964,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 17124,
+  "endMs": 17443,
+  "timestampMs": 17283,
+  "confidence": null
+ },
+ {
+  "text": " found,",
+  "startMs": 17443,
+  "endMs": 17890,
+  "timestampMs": 17666,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 18080,
+  "endMs": 18112,
+  "timestampMs": 18096,
+  "confidence": null
+ },
+ {
+  "text": " get",
+  "startMs": 18112,
+  "endMs": 18144,
+  "timestampMs": 18128,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 18144,
+  "endMs": 18175,
+  "timestampMs": 18160,
+  "confidence": null
+ },
+ {
+  "text": " calls.",
+  "startMs": 18175,
+  "endMs": 18220,
+  "timestampMs": 18198,
+  "confidence": null
+ },
+ {
+  "text": " No",
+  "startMs": 18420,
+  "endMs": 18656,
+  "timestampMs": 18538,
+  "confidence": null
+ },
+ {
+  "text": " call",
+  "startMs": 18656,
+  "endMs": 19009,
+  "timestampMs": 18832,
+  "confidence": null
+ },
+ {
+  "text": " center.",
+  "startMs": 19009,
+  "endMs": 19480,
+  "timestampMs": 19244,
+  "confidence": null
+ },
+ {
+  "text": " No",
+  "startMs": 19480,
+  "endMs": 19716,
+  "timestampMs": 19598,
+  "confidence": null
+ },
+ {
+  "text": " big",
+  "startMs": 19716,
+  "endMs": 20010,
+  "timestampMs": 19863,
+  "confidence": null
+ },
+ {
+  "text": " company.",
+  "startMs": 20010,
+  "endMs": 20540,
+  "timestampMs": 20275,
+  "confidence": null
+ },
+ {
+  "text": " Just",
+  "startMs": 20540,
+  "endMs": 20893,
+  "timestampMs": 20717,
+  "confidence": null
+ },
+ {
+  "text": " personal",
+  "startMs": 20893,
+  "endMs": 21482,
+  "timestampMs": 21188,
+  "confidence": null
+ },
+ {
+  "text": " attention.",
+  "startMs": 21482,
+  "endMs": 22130,
+  "timestampMs": 21806,
+  "confidence": null
+ },
+ {
+  "text": " DM",
+  "startMs": 22260,
+  "endMs": 22443,
+  "timestampMs": 22351,
+  "confidence": null
+ },
+ {
+  "text": " us",
+  "startMs": 22443,
+  "endMs": 22626,
+  "timestampMs": 22534,
+  "confidence": null
+ },
+ {
+  "text": " \"WEBSITE\"",
+  "startMs": 22626,
+  "endMs": 23038,
+  "timestampMs": 22832,
+  "confidence": null
+ },
+ {
+  "text": " for",
+  "startMs": 23038,
+  "endMs": 23266,
+  "timestampMs": 23152,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 23266,
+  "endMs": 23403,
+  "timestampMs": 23335,
+  "confidence": null
+ },
+ {
+  "text": " free",
+  "startMs": 23403,
+  "endMs": 23678,
+  "timestampMs": 23541,
+  "confidence": null
+ },
+ {
+  "text": " preview",
+  "startMs": 23678,
+  "endMs": 24090,
+  "timestampMs": 23884,
+  "confidence": null
+ },
+ {
+  "text": " of",
+  "startMs": 24090,
+  "endMs": 24272,
+  "timestampMs": 24181,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 24272,
+  "endMs": 24547,
+  "timestampMs": 24410,
+  "confidence": null
+ },
+ {
+  "text": " new",
+  "startMs": 24547,
+  "endMs": 24776,
+  "timestampMs": 24661,
+  "confidence": null
+ },
+ {
+  "text": " site.",
+  "startMs": 24776,
+  "endMs": 25050,
+  "timestampMs": 24913,
+  "confidence": null
+ },
+ {
+  "text": " First",
+  "startMs": 25580,
+  "endMs": 25899,
+  "timestampMs": 25739,
+  "confidence": null
+ },
+ {
+  "text": " three",
+  "startMs": 25899,
+  "endMs": 26217,
+  "timestampMs": 26058,
+  "confidence": null
+ },
+ {
+  "text": " only.",
+  "startMs": 26217,
+  "endMs": 26490,
+  "timestampMs": 26354,
+  "confidence": null
+ }
+]

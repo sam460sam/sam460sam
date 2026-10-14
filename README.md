@@ -25,7 +25,6 @@ An iOS app for habits, journaling, personal finance and wellness, with a built-i
 - **Twinbyte Services** — a small studio I run with my partner: websites and AI chat assistants for local businesses in the Netherlands, UK and Italy. [twinbyteservices.com](https://twinbyteservices.com)
 - **AI clinic assistant** (for Twinbyte) — chat widget that answers patients and books appointments into Google Calendar; multilingual, with per-visitor API cost limits. Work in progress. [Code](https://github.com/sam460sam/chatbot-dentisti)
 - **Fourth Night** — privacy-first skincare rotation app for iOS: on-device SQLite, rules engine and OCR with Apple Vision. No accounts, no server. In development.
-- **A new iOS app** — in development, not public yet.
 
 ---
 

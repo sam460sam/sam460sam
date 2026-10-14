@@ -24,6 +24,7 @@ An iOS app for habits, journaling, personal finance and wellness, with a built-i
 ## 🔨 Currently building
 
 - **Twinbyte Services** — a small studio I run with my partner: websites and AI chat assistants for local businesses in the Netherlands, UK and Italy. [twinbyteservices.com](https://twinbyteservices.com)
+- **AI clinic assistant** (for Twinbyte) — chat widget that answers patients and books appointments into Google Calendar; multilingual, with per-visitor API cost limits. Work in progress. [Code](https://github.com/sam460sam/chatbot-dentisti)
 - **A new iOS app** — in development, not public yet.
 
 ## 🧱 Other work

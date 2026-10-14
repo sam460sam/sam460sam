@@ -1,41 +1,46 @@
 # Samuele Gubert
 
-Self-taught developer. I build and ship iOS and web apps on my own — from the first commit to App Store approval.
+Self-taught frontend developer. I design, build and ship apps on my own — from the first commit to App Store approval.
 
-Based in Italy. Available for freelance work, remote.
+Before code, I worked with my hands: decking installation in Australia and industrial flooring in the Netherlands. I bring the same habits to software — plan the job, finish it, own the result.
 
----
-
-### Vyta — Life OS
-
-An iOS app for habits, journaling, personal finance and wellness, with a built-in AI assistant.
-
-Built solo with React, TypeScript, Vite, Tailwind, Capacitor and Dexie. Everything runs on the device: the App Store privacy label is *Data Not Collected*, which was a constraint from day one and shaped the whole architecture. Subscription billing through StoreKit.
-
-Live on the App Store → [apps.apple.com/app/id6776238780](https://apps.apple.com/app/id6776238780)
-
-Code → [github.com/sam460sam/vita](https://github.com/sam460sam/vita)
-
-### Currently building
-
-**Fourth Night** — a privacy-first skincare rotation app for iOS. Same offline-first approach: no accounts, no server, no data leaving the phone.
+**Open to:** junior frontend / React roles — remote, Amsterdam, Australia, Italy.
+**Contact:** gubertsamuele31@gmail.com
 
 ---
 
-### Stack
+## 📱 Vyta — Life OS (live on the App Store)
 
-React · TypeScript · Vite · Tailwind · Capacitor · Dexie / IndexedDB
+An iOS app for habits, journaling, personal finance and wellness, with a built-in AI assistant. Designed, built and published by me, solo.
 
-I work offline-first by default, and I'd rather ship something small that works than something large that almost does.
+- **Stack:** React, TypeScript, Vite, Tailwind CSS, Capacitor, Dexie.js (IndexedDB)
+- **Local-first:** data stored on the device, no accounts
+- **App Store privacy label:** "Data Not Collected"
+- **Subscriptions:** StoreKit in-app billing
+- **Shipped:** App Store Connect, TestFlight, App Review
+
+[App Store](https://apps.apple.com/app/id6776238780) · [Code](https://github.com/sam460sam/vita)
+
+## 🔨 Currently building
+
+- **Twinbyte Services** — a small studio I run with my partner: websites and AI chat assistants for local businesses in the Netherlands, UK and Italy. [twinbyteservices.com](https://twinbyteservices.com)
+- **A new iOS app** — in development, not public yet.
+
+## 🧱 Other work
+
+- **Walkbid** — field-operations tool for paving contractors, based on what I saw on site
 
 ---
 
-### Background
+## How I work
 
-Before writing code full time I worked on construction sites — industrial flooring, paving, timber structures — and coordinated a crew in Australia. That's where most of my ideas about tools for tradespeople come from: I've used the bad ones.
+- I use AI tools (Claude Code, Lovable, Base44) daily for scaffolding, refactoring and debugging — I review, test and own every line that ships.
+- I prefer local-first, privacy-first architecture: fewer servers, less user data.
 
----
+## Stack
+
+**In production:** React · TypeScript · Vite · Tailwind CSS · Capacitor · Dexie.js · Git · App Store Connect / TestFlight
 
 Italian (native) · English (fluent) · Spanish (intermediate)
 
-Open to freelance work: React and TypeScript development, iOS apps with Capacitor, bug fixing and code review.
+<sub>460 · built solo</sub>

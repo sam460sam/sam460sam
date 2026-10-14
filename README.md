@@ -4,8 +4,7 @@ Self-taught frontend developer. I design, build and ship apps on my own — from
 
 Before code, I worked with my hands: decking installation in Australia and industrial flooring in the Netherlands. I bring the same habits to software — plan the job, finish it, own the result.
 
-**Contact:** gubertsamuele31@gmail.com
-
+**Contact:** gubertsamuele31@gmail.com · [LinkedIn](https://www.linkedin.com/in/samuelegubert)
 ---
 
 ## 📱 Vyta — Life OS (live on the App Store)
